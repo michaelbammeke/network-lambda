@@ -1,0 +1,8 @@
+endpoints:
+- host: cloudfactory.app
+  port: 443
+- host: google.com
+  port: 80
+- host: cloudfactory.app
+  port: 5432
+ 
